@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main (){
 // Getränke-Automat Version 1.0
-
+//Test änderung
 
 int einwurf=0;
 	printf("Getränke Automat --- Bitte werfen Sie 1 Euro  ");
